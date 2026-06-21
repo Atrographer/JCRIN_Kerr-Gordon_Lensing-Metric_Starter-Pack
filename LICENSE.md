@@ -54,7 +54,7 @@ THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
 Any violation of the Non-Commercial or No-Patenting clauses will result in:
 - Immediate automatic revocation of all rights granted under this license,
 - Perjury of the license terms,
-- A minimum civil fine of **USD $250,000** per violation,
+- A minimum civil fine of **USD $250,000,000** per violation,
 - Plus any additional statutory damages, legal fees, and court costs.
 
 Violators agree to these penalties by downloading, using, or modifying the Work.
