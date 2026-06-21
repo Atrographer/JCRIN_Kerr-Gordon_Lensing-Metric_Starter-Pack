@@ -26,7 +26,7 @@ educational, research, or personal purposes**, subject to the following conditio
    No person or entity may file patents, claim intellectual property rights, 
    or otherwise seek to restrict the use of the mathematical equations, 
    physical frameworks, concepts, or formulations contained in this Work 
-   (including but not limited to the Kerr-Gordon Vortex Framework, effective 
+   (including but not limited to the JCR-Kerr-Gordon Vortex Framework, effective 
    Hubble terms, complex numberline pathways, torque transmission, isotropic 
    conformal corrections, or any derived mathematics). 
    
